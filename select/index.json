@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Truthfully",
+  "base_artist": "DNCE",
+  "createdAt": "2026-02-11T13:09:06.287969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Truthfully",
+      "artist": "Lisa Loeb",
+      "has_synced": true,
+      "path": "select/01_Truthfully_Lisa_Loeb.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Truthfully",
+      "artist": "Brandy",
+      "has_synced": true,
+      "path": "select/02_Truthfully_Brandy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Truthfully",
+      "artist": "DNCE",
+      "has_synced": true,
+      "path": "select/03_Truthfully_DNCE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Truthfully",
+      "artist": "Brymo",
+      "has_synced": true,
+      "path": "select/04_Truthfully_Brymo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Truthfully",
+      "artist": "Lisa Loeb",
+      "has_synced": true,
+      "path": "select/05_Truthfully_Lisa_Loeb.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brymo - Truthfully (Audio)",
+      "artist": "Brymo",
+      "has_synced": true,
+      "path": "select/06_Brymo_-_Truthfully_(Audio)_Brymo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Truthfully",
+      "artist": "A1 Trip",
+      "has_synced": true,
+      "path": "select/07_Truthfully_A1_Trip.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Truthfully (LP Version)",
+      "artist": "Brandy",
+      "has_synced": false,
+      "path": "select/08_Truthfully_(LP_Version)_Brandy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Truthfully",
+      "artist": "DNCE",
+      "has_synced": true,
+      "path": "select/09_Truthfully_DNCE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Truthfully - www.SongsLover",
+      "artist": "DNCE",
+      "has_synced": true,
+      "path": "select/10_Truthfully_-_www.SongsLover_DNCE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "TRUTHFULLY",
+      "artist": "Fifteen0eight",
+      "has_synced": true,
+      "path": "select/11_TRUTHFULLY_Fifteen0eight.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Truthfully",
+      "artist": "A1Trip",
+      "has_synced": true,
+      "path": "select/12_Truthfully_A1Trip.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Truthfully",
+      "artist": "Brandy",
+      "has_synced": true,
+      "path": "select/13_Truthfully_Brandy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "09 Truthfully",
+      "artist": "Brandy",
+      "has_synced": true,
+      "path": "select/14_09_Truthfully_Brandy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Truthfully",
+      "artist": "Brandy",
+      "has_synced": true,
+      "path": "select/15_Truthfully_Brandy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Truthfully",
+      "artist": "Shylah Ray Sunshine",
+      "has_synced": false,
+      "path": "select/16_Truthfully_Shylah_Ray_Sunshine.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Truthfully",
+      "artist": "DNCE",
+      "has_synced": false,
+      "path": "select/pl_01_Truthfully_DNCE.txt"
+    }
+  ]
+}
